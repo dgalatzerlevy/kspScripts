@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8671e50e-2818-4cfb-822e-bfe58b51441a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Galatzev.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReLKO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReLKO2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReLKO3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReLKO4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReLanding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/duna_landing.py" afterDir="false" />
-    </list>
+    <list default="true" id="8671e50e-2818-4cfb-822e-bfe58b51441a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +29,7 @@
             <entry file="file://$PROJECT_DIR$/duna_landing.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="320">
-                  <caret line="86" column="19" lean-forward="true" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+                  <caret line="86" column="19" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
                   <folding>
                     <element signature="e#21#32#0" expanded="true" />
                   </folding>
@@ -52,8 +44,8 @@
           <file leaf-file-name="ReLKO3.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/ReLKO3.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="328">
-                  <caret line="250" column="30" lean-forward="true" selection-start-line="250" selection-start-column="30" selection-end-line="250" selection-end-column="30" />
+                <state relative-caret-position="524">
+                  <caret line="295" column="17" selection-start-line="295" selection-start-column="17" selection-end-line="295" selection-end-column="17" />
                 </state>
               </provider>
             </entry>
@@ -62,7 +54,7 @@
             <entry file="file://$PROJECT_DIR$/ReLKO4.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="323">
-                  <caret line="231" column="17" lean-forward="true" selection-start-line="231" selection-start-column="17" selection-end-line="231" selection-end-column="17" />
+                  <caret line="231" column="17" selection-start-line="231" selection-start-column="17" selection-end-line="231" selection-end-column="17" />
                 </state>
               </provider>
             </entry>
@@ -311,16 +303,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2205" y="41" width="1491" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.1583514" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26193002" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26193002" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32661718" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="7" visible="true" weight="0.32661718" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33654878" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3361612" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -690,7 +681,7 @@
     <entry file="file://$PROJECT_DIR$/duna_landing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="86" column="19" lean-forward="true" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+          <caret line="86" column="19" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
           <folding>
             <element signature="e#21#32#0" expanded="true" />
           </folding>
@@ -700,14 +691,14 @@
     <entry file="file://$PROJECT_DIR$/ReLKO4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="231" column="17" lean-forward="true" selection-start-line="231" selection-start-column="17" selection-end-line="231" selection-end-column="17" />
+          <caret line="231" column="17" selection-start-line="231" selection-start-column="17" selection-end-line="231" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ReLKO3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="250" column="30" lean-forward="true" selection-start-line="250" selection-start-column="30" selection-end-line="250" selection-end-column="30" />
+        <state relative-caret-position="524">
+          <caret line="295" column="17" selection-start-line="295" selection-start-column="17" selection-end-line="295" selection-end-column="17" />
         </state>
       </provider>
     </entry>
