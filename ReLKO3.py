@@ -174,7 +174,8 @@ def cirucularization():
 
     scroll_text('Locking Gimbals')
     for engine in vessel.parts.engines:
-        engine.gimbal_locked = True
+        if engine.active == True:
+            engine.gimbal_locked = True
 
     # Execute burn
     scroll_text('Ready to execute burn')
@@ -301,10 +302,10 @@ def landing():
 
 
 
-assent()
-cirucularization()
-
-reentry()
+# assent()
+# cirucularization()
+#
+# reentry()
 landing()
 conn.close()
 
