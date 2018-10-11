@@ -14,10 +14,10 @@ vessel.control.activate_next_stage()
 
 altitude = conn.add_stream(getattr, vessel.flight(), 'mean_altitude')
 
-while altitude() < 1500:
+while altitude() < 2500:
     pass
 
-while altitude() > 1500:
+while altitude() > 2500: #corrected from 1500 to prevent death.
     pass
 
 vessel.control.activate_next_stage()

@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8671e50e-2818-4cfb-822e-bfe58b51441a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/blogfiles/episode1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogfiles/episode2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogfiles/episode1.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogfiles/episode1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +18,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="episode1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="episode1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blogfiles/episode1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="34">
+              <caret line="2" column="12" selection-end-line="4" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="episode2" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blogfiles/episode2">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="48" column="19" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -29,8 +42,8 @@
       <file leaf-file-name="ReLKO4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReLKO4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="96" column="7" lean-forward="true" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="73" />
+            <state relative-caret-position="544">
+              <caret line="224" column="64" lean-forward="true" selection-start-line="224" selection-start-column="64" selection-end-line="224" selection-end-column="64" />
               <folding>
                 <element signature="e#53#64#0" expanded="true" />
               </folding>
@@ -72,13 +85,14 @@
         <option value="$PROJECT_DIR$/ReLKO4.py" />
         <option value="$PROJECT_DIR$/ReLKO3.py" />
         <option value="$PROJECT_DIR$/blogfiles/episode1.py" />
+        <option value="$PROJECT_DIR$/blogfiles/episode2" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
-    <option name="y" value="1" />
-    <option name="width" value="1051" />
+    <option name="x" value="2010" />
+    <option name="y" value="22" />
+    <option name="width" value="1333" />
     <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -89,6 +103,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,7 +120,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -129,7 +143,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.episode1">
+  <component name="RunManager" selected="Python.episode2">
     <configuration name="ReLKO" type="PythonConfigurationType" factoryName="Python">
       <module name="kspScripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,24 +157,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReLKO.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="ReLKO2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="kspScripts" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReLKO2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,22 +252,40 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="episode2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kspScripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blogfiles" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blogfiles/episode2" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.ReLKO" />
       <item itemvalue="Python.ReLanding" />
-      <item itemvalue="Python.ReLKO2" />
       <item itemvalue="Python.ReLKO3" />
       <item itemvalue="Python.duna_landing" />
       <item itemvalue="Python.ReLKO4" />
       <item itemvalue="Python.episode1" />
+      <item itemvalue="Python.episode2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.episode2" />
         <item itemvalue="Python.episode1" />
         <item itemvalue="Python.ReLKO4" />
         <item itemvalue="Python.duna_landing" />
         <item itemvalue="Python.ReLKO3" />
-        <item itemvalue="Python.ReLKO2" />
       </list>
     </recent_temporary>
   </component>
@@ -289,13 +303,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="1" width="1051" height="1049" extended-state="0" />
+    <frame x="2010" y="22" width="1333" height="1049" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994698" visible="true" weight="0.14708786" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4994698" visible="true" weight="0.115057915" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32456142" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.47149122" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.26754385" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24924622" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.24451755" />
@@ -319,23 +333,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-          <folding>
-            <element signature="e#1#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReLKO2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5389">
-          <caret line="317" column="70" selection-start-line="317" selection-start-column="70" selection-end-line="317" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/duna_landing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1343">
@@ -354,9 +351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-          <folding>
-            <element signature="e#1#12#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -385,9 +379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-          <folding>
-            <element signature="e#1#12#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -661,9 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-          <folding>
-            <element signature="e#1#12#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -674,10 +662,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ReLKO4.craft">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/ReLKO4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="96" column="7" lean-forward="true" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="73" />
+        <state relative-caret-position="544">
+          <caret line="224" column="64" lean-forward="true" selection-start-line="224" selection-start-column="64" selection-end-line="224" selection-end-column="64" />
           <folding>
             <element signature="e#53#64#0" expanded="true" />
           </folding>
@@ -686,8 +677,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blogfiles/episode1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogfiles/episode2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="48" column="19" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
